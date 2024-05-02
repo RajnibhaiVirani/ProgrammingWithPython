@@ -1,0 +1,4 @@
+git status   ----  check the changes 
+git add .  ----  add the changes to Staging area
+git commit -m "commit message"
+git push 
